@@ -12,6 +12,6 @@
 # Anotações gerais 
 
 ### Comandos do NVDA
-> Tecla = navega para frente | Shift+Tecla = navega para trás
-> Tecla K faz navegação proximos links
-> Tecla H faz navegação entre headers/cabeçalhos
+-> Tecla = navega para frente | Shift+Tecla = navega para trás
+-> Tecla K faz navegação proximos links
+-> Tecla H faz navegação entre headers/cabeçalhos
