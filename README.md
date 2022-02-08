@@ -9,6 +9,11 @@
 - [x] Tomar cuidado com a marcação de conteúdo quando estamos utilizando elementos HTML5. Vale mais por uma div do que usar um aside ou details erroneamente.
 - [x] O melhor caminho para deixar nosso projeto inclusivo não é apenas seguir regras e guidelines, mas testá-las por conta para começarmos a compreender os caminhos e dificuldades que muitas pessoas podem ter ao usar nosso produto e/ou serviço. Empatia.
 
+### Aula 02
+- [x] Alt nas imagens que possuem função de conteúdo;
+- [x] Escrever o alt de maneira descritiva, evitando redundâncias;
+- [x] Configurar o idioma principal do documento com o atributo lang;
+- [x] Colocar o elemento title em SVGs que forem inline (código direto no HTML).
 
 # Anotações gerais 
 
@@ -16,3 +21,8 @@
 - Tecla = navega para frente | Shift+Tecla = navega para trás
 - Tecla K faz navegação proximos links
 - Tecla H faz navegação entre headers/cabeçalhos
+- Tecla G faz navegação entre imagens
+
+### Dicas
+- É possivel usar o atributo lang="en" por exemplo para frases em outras linguas, no caso, inglês
+- Não precisa usar os atributos alt e title ao mesmo tempo
