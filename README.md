@@ -15,6 +15,8 @@
 - [x] Configurar o idioma principal do documento com o atributo lang;
 - [x] Colocar o elemento title em SVGs que forem inline (código direto no HTML).
 
+### Aula 03
+
 # Anotações gerais 
 
 ### Comandos do NVDA
