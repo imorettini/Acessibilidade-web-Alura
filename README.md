@@ -24,7 +24,11 @@
 - Tecla K faz navegação proximos links
 - Tecla H faz navegação entre headers/cabeçalhos
 - Tecla G faz navegação entre imagens
+- Tecla L faz navegação entre listas
+- Caps lock+ctrl+seta cima ou baixo para aumentar ou diminuir volume do leitor
 
 ### Dicas
 - É possivel usar o atributo lang="en" por exemplo para frases em outras linguas, no caso, inglês
 - Não precisa usar os atributos alt e title ao mesmo tempo
+- O css pode sim influenciar no leitor de tela, como um list-style por exemplo
+- IMPORTANTE! Para inputs personalizados(tipo checkbox) o display none irá fazer com q o leitor de tela ignore o elemento, portanto use a gambiarra de um left: -9999px, position: absolute, opacity:0 
