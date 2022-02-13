@@ -16,6 +16,9 @@
 - [x] Colocar o elemento title em SVGs que forem inline (código direto no HTML).
 
 ### Aula 03
+- [x] Css pode impactar no leitor de tela
+- [x] Como ocultar inputs nativos para priorizar inputs personalizados, sem usar display: none ou visibility: hidden, pois ambas propriedades fazem com que o leitor ignore o input personalizado
+- [x] Elementos como list style são lidos pelo leitor de tela
 
 # Anotações gerais 
 
