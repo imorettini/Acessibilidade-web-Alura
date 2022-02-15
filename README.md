@@ -20,6 +20,10 @@
 - [x] Como ocultar inputs nativos para priorizar inputs personalizados, sem usar display: none ou visibility: hidden, pois ambas propriedades fazem com que o leitor ignore o input personalizado
 - [x] Elementos como list style são lidos pelo leitor de tela
 
+### Aula 04
+- [x] como utilizar o atributo role para mudar a semantica do html 
+- [x] Uso do wai aria, no caso o labelled-by com o id de uma figure para indicar que aquele elemento é "empacotado" e definido pelo conteúdo indicado
+
 # Anotações gerais 
 
 ### Comandos do NVDA
@@ -35,3 +39,4 @@
 - Não precisa usar os atributos alt e title ao mesmo tempo
 - O css pode sim influenciar no leitor de tela, como um list-style por exemplo
 - IMPORTANTE! Para inputs personalizados(tipo checkbox) o display none irá fazer com q o leitor de tela ignore o elemento, portanto use a gambiarra de um left: -9999px, position: absolute, opacity:0 
+- Podemos usar um link âncora href="#id-seção" para que o leitor de tela pule direto para determinado contéudo quando clicado
