@@ -30,7 +30,7 @@
 - [x] Como desabilitar campos e ainda deixa-los acessíveis ao leitor de tela, utilizando os atributos readonly e disabled juntos
 - [x] Inserindo videos via html e legendas utilizando as tags semanticas video para o video e track para as legendas
 
-# Anotações gerais 
+## Anotações gerais 
 
 ### Comandos do NVDA
 - Tecla = navega para frente | Shift+Tecla = navega para trás
@@ -46,3 +46,11 @@
 - O css pode sim influenciar no leitor de tela, como um list-style por exemplo
 - IMPORTANTE! Para inputs personalizados(tipo checkbox) o display none irá fazer com q o leitor de tela ignore o elemento, portanto use a gambiarra de um left: -9999px, position: absolute, opacity:0 
 - Podemos usar um link âncora href="#id-seção" para que o leitor de tela pule direto para determinado contéudo quando clicado
+
+# Acessibilidade web parte 2: Componentes acessíveis com um pouco de JavaScript
+### Iniciado em 16/02/2022
+
+### Aula 01
+- [x] Como esconder visualmente elementos na página, porém ainda deixa-los acessiveis pelo leitor de tela usando o css (no caso a classe escondeVisualmente)
+- [x] Em list style, podemos deixar as bolinhas (disc) visiveis na tela e no leitor de tela, pois usuários cegos já estão acostumados 
+- [x] Questionamento se há ou não a necessidade de colocar textos em imagens meramente ilustrativas, deixando o alt vazio ou inserindo um texto alternativo se realmente você quer dar destaque aquela imagem 
