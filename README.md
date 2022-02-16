@@ -2,6 +2,7 @@
 
 # Acessibilidade web parte 1: tornando seu front-end inclusivo
 ### Iniciado em 06/02/2022
+### Finalizado em 15/02/2022
 
 ### Aula 01
 - [x] Que pessoas cegas ou com baixa visão podem contar com o auxílio de um software que lê o conteúdo exibido na tela, estes recebem o nome de leitores de tela.
@@ -23,6 +24,11 @@
 ### Aula 04
 - [x] como utilizar o atributo role para mudar a semantica do html 
 - [x] Uso do wai aria, no caso o labelled-by com o id de uma figure para indicar que aquele elemento é "empacotado" e definido pelo conteúdo indicado
+
+### Aula 05
+- [x] Como trabalhar com formulários acessíveis, usando label for para ligar a label ao seu input
+- [x] Como desabilitar campos e ainda deixa-los acessíveis ao leitor de tela, utilizando os atributos readonly e disabled juntos
+- [x] Inserindo videos via html e legendas utilizando as tags semanticas video para o video e track para as legendas
 
 # Anotações gerais 
 
